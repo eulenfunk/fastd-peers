@@ -1,2 +1,2 @@
-key "0c3131778981c318135e0f552d747c513f0589ac9a214ad75731c8455a442c20"
-remote ipv4 "lvr3.freifunk.space" port 63984;
+key "979b931c4c73405b32e7f05c03253bc977245cbc480c557fa241376418ba8c86";
+remote ipv4 "fastd3.ffnef-lvr.ffnef.de" port 63984;
