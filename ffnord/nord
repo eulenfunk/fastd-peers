@@ -1,1 +1,5 @@
-nord.freifunk-mk.de:10000
+SERVER_ENDPOINT="next.freifunk-mk.de:10000"
+SERVER_PUBLIC_KEY="r0/66XwCPvmDOdIHBzgnnOlh4SFk0U87DhuFTxOtJS0="
+ALLOWED_IPS="fe80::f000:22ff:fe12:01"
+VXLAN_ID="3341461"
+BROKER="http://next.freifunk-mk.de/keyex/keyex.php"
