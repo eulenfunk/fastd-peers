@@ -1,0 +1,5 @@
+SERVER_ENDPOINT="west.freifunk-mk.de:10001"
+SERVER_PUBLIC_KEY="GJHn9dmagNs7W5q4j2X/UCaOVJOspqE+CGnTRBgeY0Y="
+ALLOWED_IPS="fe80::f000:22ff:fe12:01"
+VXLAN_ID="12680462"
+BROKER="http://west.freifunk-mk.de/keyex/keyex.php"
