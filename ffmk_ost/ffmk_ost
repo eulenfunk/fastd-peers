@@ -1,5 +1,0 @@
-SERVER_ENDPOINT="ost.freifunk-mk.de:10002"
-SERVER_PUBLIC_KEY="aMqfnh5remYgXDVLkByLCkx/bbAfh7KXcLgxs30VN1s="
-ALLOWED_IPS="fe80::f000:22ff:fe12:18"
-VXLAN_ID="11579003"
-BROKER="http://ost.freifunk-mk.de/keyex/keyex.php"
