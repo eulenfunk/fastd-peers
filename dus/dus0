@@ -1,3 +1,0 @@
-# old mapserver "dus0"
-key "56ff41d76f1a617bbae3e268eee8900e8eca8baecf8088973bd7e510695dab2c";
-remote ipv4 "dus0.ffdus.de" port 10010;
