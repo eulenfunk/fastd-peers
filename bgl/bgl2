@@ -1,2 +1,2 @@
 key "f0bed788e414e4731bdca5daab334db6df07531bad83b73c02c47d2caf6d8552";
-remote ipv4 "bgl2.ffgl.eu" port 51399;
+remote "bgl2.ffgl.eu" port 51399;

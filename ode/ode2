@@ -1,2 +1,2 @@
 key "e8e5c0104121a3dbb9261e73692924ea71e16f513c0128e139644c83e268f52f";
-remote ipv4 "ode2.ffgl.eu" port 51399;
+remote "ode2.ffgl.eu" port 51399;

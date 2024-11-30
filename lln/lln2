@@ -1,2 +1,2 @@
 key "1e3af1cde2c69608c951713daa1ef8e8002dac8c90a086574a8525723ab2ef56";
-remote ipv4 "lln2.ffgl.eu" port 51399;
+remote "lln2.ffgl.eu" port 51399;
